@@ -33,7 +33,7 @@
   </properties>
 
   <modelVersion>4.0.0</modelVersion>
-  <artifactId>jira-soap</artifactId>
+  <artifactId>com.dolby.jira.net.jira-soap</artifactId>
   <version>${wrapped.version}</version>
 
   <name>OpenEngSB :: OSGi Wrapped Bundles :: Jira Soap</name>
